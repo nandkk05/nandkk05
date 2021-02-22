@@ -1,4 +1,4 @@
-### Hey 👋🏽 I'm [Nand!](https://nandkishor.me) 
+### Hey 👋🏽  I'm [Nand!](https://nandkishor.me) 
 
 
 Hi, I'm Nand Kishor, a Web Developer, UX Enthusiast and Photographer from India.
