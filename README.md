@@ -15,4 +15,4 @@ Hi, I'm Nand Kishor, a Web Developer, UX Enthusiast and Photographer from India.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Javascript >> Python
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandkk05&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandkk05&theme=dark&hide_border=true)](https://git.io/streak-stats)
