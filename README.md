@@ -1,18 +1,9 @@
-### Hey 👋🏽  [I'm Nand!](https://nandkk05.github.io) 
-
-
-Hi, I'm Nand Kishor, a Web Developer, UX Enthusiast and Photographer from India.
-<br />
+[![Twitter: Nand](https://img.shields.io/twitter/follow/nandkk05?style=social)](https://twitter.com/nandkk05) 
+[![GitHub Nand](https://img.shields.io/github/followers/nandkk05?label=follow&style=social)](https://github.com/nandkk05)
 
 
 
-
-- 🔭 I’m currently working on ... Dev Colony Project!
-- 🌱 I’m currently learning ... React JS!
-- 👯 I’m looking to collaborate on ... Any Open Source Project involving Web Development/ DevOps
-- 💬 Ask me about ... anything tech!
-- 📫 How to reach me: Follow me on these platforms! : [Twitter](https://twitter.com/nandkk05) / [Linkedin](https://www.linkedin.com/feed/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Javascript >> Python
+# Hi, I'm Nand 👋
+My name is Nand Kishor and I love building software powered tools and services. Here, you can find a collection of my work. Some completed ✅ &nbsp;and others in WIP status 🛠
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nandkk05&theme=dark&hide_border=true)](https://git.io/streak-stats)
