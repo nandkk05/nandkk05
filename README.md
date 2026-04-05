@@ -11,7 +11,7 @@
 Hey, I'm Nand 👋 I enjoy **combining great UI with solid engineering** — whether it’s **frontend performance**, **backend architecture**, or experimenting with new ideas.
 
 ### Fun Facts
-- I’m a full-stack developer with a cat 🐈  
+- I’m a full-stack developer ~with a cat 🐈~ 
 - I love creating quick POCs for new ideas  
 - Constantly learning, improving, and building something new  
 
